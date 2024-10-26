@@ -1,0 +1,9 @@
+/build/
+/config/
+/dist/
+/static/
+/public/
+/node_modules/
+/upmsAdmin/
+*/*/iconFont/
+*.d.ts
